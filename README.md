@@ -85,12 +85,12 @@ Mi objetivo es simplificar procesos, reducir errores, mejorar la calidad de la i
 
 ### 📜 Formación complementaria
 
-- **Inteligencia Artificial para la Productividad (Nivel Inicial y Avanzado)**
-- **Desarrollo Web FrontEnd**
-- **Herramientas Ágiles**
-- **Curso de Teletrabajo**
-- **Inglés Técnico**
-- **Habilidades Socioemocionales y Laborales**
+- Inteligencia Artificial para la Productividad (Nivel Inicial y Avanzado)
+- Desarrollo Web FrontEnd
+- Herramientas Ágiles
+- Curso de Teletrabajo
+- Inglés Técnico
+- Habilidades Socioemocionales y Laborales
 ---
 
 ### 📬 Contacto
