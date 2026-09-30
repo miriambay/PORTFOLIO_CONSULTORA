@@ -85,9 +85,11 @@ Mi objetivo es simplificar procesos, reducir errores, mejorar la calidad de la i
 
 ### 📜 Formación complementaria
 
-- Curso de Teletrabajo — Keiwebco.
-- Front-End, Inglés y H.S.E. — Potrero Digital.
-
+- **Inteligencia Artificial para la Productividad (Nivel Inicial y Avanzado)**
+- **Desarrollo Web FrontEnd**
+- **Curso de Teletrabajo**
+- **Inglés Técnico**
+- **Habilidades Socioemocionales y Laborales**
 ---
 
 ### 📬 Contacto
