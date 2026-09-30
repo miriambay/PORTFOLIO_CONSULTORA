@@ -2,6 +2,19 @@
 
 **Miriam Lis Bay**  
 🎓 Licenciada en Sistemas de Información | Business Process Consultant
+---
+
+# 🧠 Filosofía de trabajo
+
+Primero comprender.
+
+Después simplificar.
+
+Luego organizar.
+
+Y recién al final, automatizar.
+
+---
 
 Analizo procesos empresariales, identifico cuellos de botella y diseño soluciones prácticas para mejorar la calidad de la información, optimizar el trabajo y facilitar la toma de decisiones.
 
@@ -50,15 +63,11 @@ Mi objetivo es simplificar procesos, reducir errores, mejorar la calidad de la i
 
 # 🧩 Situaciones en las que puedo ayudar
 
-- Empresas con exceso de trabajo manual.
-- Información duplicada o dispersa.
-- Retrabajos y tareas repetitivas.
-- Errores frecuentes en la carga de datos.
-- Demoras administrativas.
-- Procesos basados en papel o planillas poco organizadas.
-- Quejas recurrentes o clientes insatisfechos por problemas internos.
-- Pérdidas de tiempo, recursos o dinero por procesos ineficientes.
-- Integración de Inteligencia Artificial cuando aporta valor al negocio.
+- **Papeleo y carga repetitiva de datos:** Tareas administrativas manuales que quitan tiempo a la gestión comercial.
+- **Información dispersa:** Datos repartidos en múltiples planillas o papel, dificultando tener el número real al instante.
+- **Procesos dependientes de la memoria:** Tareas informales que generan demoras o contratiempos cuando alguien falta.
+- **Atención al cliente con demoras:** Consultas o pedidos que se traspapelan por falta de un flujo de trabajo ordenado.
+- **Falta de documentación:** Necesidad de organizar el paso a paso de la operación para que el negocio funcione de forma fluida y sin complicaciones.
 
 ---
 
@@ -71,18 +80,6 @@ Mi objetivo es simplificar procesos, reducir errores, mejorar la calidad de la i
 5. Diseño de la solución.
 6. Desarrollo y documentación.
 7. Entrega y recomendaciones.
-
----
-
-# 🧠 Filosofía de trabajo
-
-Primero comprender.
-
-Después simplificar.
-
-Luego organizar.
-
-Y recién al final, automatizar.
 
 ---
 
