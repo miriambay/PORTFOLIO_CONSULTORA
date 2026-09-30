@@ -4,7 +4,7 @@
 🎓 Licenciada en Sistemas de Información | Business Process Consultant
 ---
 
-# 🧠 Filosofía de trabajo
+### 🧠 Filosofía de trabajo
 
 Primero comprender.
 
@@ -24,7 +24,7 @@ Trabajo de forma remota, por proyectos y con entregables concretos. Utilizo Inte
 
 ---
 
-# 🎓 Formación
+### 🎓 Formación
 
 - Licenciada en Sistemas de Información.
 - Analista de Sistemas.
@@ -36,7 +36,7 @@ Trabajo de forma remota, por proyectos y con entregables concretos. Utilizo Inte
 
 ---
 
-# 💼 Cómo trabajo
+### 💼 Cómo trabajo
 
 No vendo software.
 
@@ -48,7 +48,7 @@ Mi objetivo es simplificar procesos, reducir errores, mejorar la calidad de la i
 
 ---
 
-# ✅ Qué recibe el cliente
+### ✅ Qué recibe el cliente
 
 - Diagnóstico del proceso actual.
 - Identificación de oportunidades de mejora.
@@ -61,7 +61,7 @@ Mi objetivo es simplificar procesos, reducir errores, mejorar la calidad de la i
 
 ---
 
-# 🧩 Situaciones en las que puedo ayudar
+### 🧩 Situaciones en las que puedo ayudar
 
 - **Papeleo y carga repetitiva de datos:** Tareas administrativas manuales que quitan tiempo a la gestión comercial.
 - **Información dispersa:** Datos repartidos en múltiples planillas o papel, dificultando tener el número real al instante.
@@ -71,7 +71,7 @@ Mi objetivo es simplificar procesos, reducir errores, mejorar la calidad de la i
 
 ---
 
-# 🔄 Metodología de trabajo
+### 🔄 Metodología de trabajo
 
 1. Primer contacto.
 2. Relevamiento del proceso.
@@ -83,14 +83,14 @@ Mi objetivo es simplificar procesos, reducir errores, mejorar la calidad de la i
 
 ---
 
-# 📜 Formación complementaria
+### 📜 Formación complementaria
 
 - Curso de Teletrabajo — Keiwebco.
 - Front-End, Inglés y H.S.E. — Potrero Digital.
 
 ---
 
-# 📬 Contacto
+### 📬 Contacto
 
 📧 **Email:** miriambay2020@gmail.com
 
