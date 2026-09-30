@@ -1,4 +1,4 @@
-# 🔗 Portfolio profesional
+# 🔗 Portfolio Profesional
 
 **Miriam Lis Bay**  
 🎓 Licenciada en Sistemas de Información | Business Process Consultant
