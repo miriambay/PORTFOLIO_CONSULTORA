@@ -1,6 +1,6 @@
 # 🔗 Portfolio Profesional
 
-**Miriam Lis Bay**  
+**Miriam Lis Bay Poblete**  
 🎓 Licenciada en Sistemas de Información | Business Process Consultant
 ---
 
